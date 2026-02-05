@@ -1,0 +1,3 @@
+As a student, 
+I want AI to analyze my notes and automatically organize them with relevant tags,
+so that I can easily search and find important information whenever I need it.
